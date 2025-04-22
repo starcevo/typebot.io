@@ -1,5 +1,5 @@
 root@typedeep:~/typebot.io# tree
-.
+. 
 |-- CHANGELOG.md
 |-- CONTRIBUTING.md
 |-- Dockerfile
